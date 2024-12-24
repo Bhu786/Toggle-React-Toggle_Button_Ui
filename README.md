@@ -1,7 +1,6 @@
 # Toggle-React-Toggle_Button_Ui
 
-
- [./toggleCode](./toggleCode.png)
+   ![toggleCode](./toggleCode.png)
  
 
 
